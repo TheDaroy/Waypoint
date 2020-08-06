@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b35bd26655adb594f9e7b6619b26ecd3, type: 3}
+  m_Name: WayPoints11
+  m_EditorClassIdentifier: 
+  WPList:
+  - {x: 37.266098, y: 17.201118, z: 13.586225}
+  - {x: 34.534225, y: 18.396534, z: 11.985279}
+  - {x: 27.79898, y: 19.31459, z: 8.373139}
+  - {x: 26.218887, y: 19.170948, z: 1.0150372}
+  - {x: 24.462385, y: 18.792343, z: -4.9025736}
+  - {x: 40.00171, y: 18.501682, z: -3.705139}
+  - {x: 37.294342, y: 19.256851, z: 5.703432}
+  cycleWP: 1
